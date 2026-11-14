@@ -1,0 +1,18 @@
+{
+  "name": "Lumen — Adaptive Learning",
+  "short_name": "Lumen",
+  "description": "A calmer, more personal way to study and grow.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#6b58c8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
